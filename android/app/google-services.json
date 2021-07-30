@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "418168633651",
+    "project_id": "spinner-test-v2-72cc8",
+    "storage_bucket": "spinner-test-v2-72cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418168633651:android:18d47630f38c5eaf6fe646",
+        "android_client_info": {
+          "package_name": "com.sabresmediallc.flutter_spinner_appv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418168633651-lk0ie80anpfpr6ifrufb062rd8pdrg6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3PEgsLJRLowrLUrLulrs1vvxw2EHUOTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418168633651-lk0ie80anpfpr6ifrufb062rd8pdrg6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418168633651:android:e9a5c0e5e579b8326fe646",
+        "android_client_info": {
+          "package_name": "com.sabresmediallc.flutter_spinner_appv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418168633651-lk0ie80anpfpr6ifrufb062rd8pdrg6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3PEgsLJRLowrLUrLulrs1vvxw2EHUOTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418168633651-lk0ie80anpfpr6ifrufb062rd8pdrg6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
